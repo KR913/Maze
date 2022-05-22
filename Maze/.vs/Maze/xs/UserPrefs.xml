@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{203E294F-6A57-B963-05D6-83EB30201135}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_LP/_MazeGame/Scripts/GameScene/Manager/MazeManager.cs">
+    <Files>
+      <File FileName="Assets/_LP/_MazeGame/Scripts/3D Test/FrameMove3D.cs" Line="1" Column="1" />
+      <File FileName="Assets/_LP/_MazeGame/Scripts/GameScene/Collectible.cs" Line="14" Column="17" />
+      <File FileName="Assets/_LP/_MazeGame/Scripts/GameScene/Player/Algo/PathFinder.cs" Line="90" Column="35" />
+      <File FileName="Assets/_LP/_MazeGame/Scripts/GameScene/Player/CollectorChecker.cs" Line="16" Column="31" />
+      <File FileName="Assets/_LP/_MazeGame/Scripts/GameScene/Manager/MazeManager.cs" Line="25" Column="10" />
+      <File FileName="Assets/_LP/_MazeGame/Scripts/GameScene/DynamicScrollView.cs" Line="25" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Maze" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_LP" expanded="True">
+                <Node name="_MazeGame" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="3D Test" expanded="True" />
+                    <Node name="GameScene" expanded="True">
+                      <Node name="Manager" expanded="True">
+                        <Node name="MazeManager.cs" selected="True" />
+                      </Node>
+                      <Node name="Player" expanded="True">
+                        <Node name="Algo" expanded="True" />
+                        <Node name="Movement" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63020921-3950-4272-86a2-1b57bca16cc1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_LP/_MazeGame/Scenes/3DMaze.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
